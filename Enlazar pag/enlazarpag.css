@@ -1,0 +1,29 @@
+h1 {
+  color: #336666;
+  background-color: #99ff99;
+  text-align: center;
+  font-size: 250%;
+}
+h3 {
+  color: #336666;
+  text-align: left;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #99ff99;
+}
+h4 {
+  color: #336666;
+  text-align: left;
+  font-style: italic;
+}
+h5 {
+  color: #336666;
+  text-align: left;
+  font-style: italic;
+}
+p {
+  text-align: justify;
+}
+body {
+  background-color: #99ff99;
+}
